@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jdg:home|Door43 (jdg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jdg|d43-jdg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jdg/archive/master.zip|d43-jdg.zip]]
+
+**Recent Changes**
+{{changes>ns = jdg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jdg|Ethnologue data]]
+
